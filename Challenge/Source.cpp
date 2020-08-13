@@ -3,7 +3,7 @@
 int main()
 {
 	int x, y, count = 0, sul = 0;
-	float sum = 0, aver = 0, sd, a, b, c, d;
+	float sum = 0, aver = 0, sd, a, b;
 	scanf_s("%d %d", &x, &y);
 	if (x < y)
 	{
